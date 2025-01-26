@@ -2,6 +2,7 @@ def calculateGrade():
     # Implement your solution in between the two comment blocks
     print("Calculating Grade")
     # This first line is provided for you
+    Bad_Score_message = "Bad Score"
     try:
         score = float(input("Enter Score: "))
 
